@@ -1,0 +1,98 @@
+.fixed-nav-bar {
+    position: fixed;
+    top: 0;   left: 0;
+    z-index: 9999;
+    width: 100%;
+    height: 50px;
+    background-color: #00a087;
+    text-align: center;
+}
+html{
+    font-family: "Segoe MDL2 Assets1";
+    text-align: center;
+}
+table{
+    border-radius: 25px;
+    border: 2px solid #23893d;
+    padding: 50px;
+    width: 900px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+.rida1{
+    font-size: 20px;
+    margin: 100px;
+}
+div.rida2{
+    width: 200px;
+    height: 100px;
+    border: solid 1px grey;
+    float: left;
+    padding: 3%;
+    background-color: #00a087;
+}
+li {
+    float: left;
+}
+h1{
+    text-align: center;
+    font-size: 32px;
+    margin-top: 70px;
+}
+.left{
+    text-align: left;
+}
+h2{
+    font-size: 24px;
+    margin: 40px;
+
+}
+h3{
+    font-size: 20px;
+    margin: 40px;
+}
+.def{
+    font-size: 32px;
+    text-align: left;
+}
+.nimi{
+    text-align: center;
+    font-size: 32px;
+}
+.tere{
+    text-align: center;
+    font-size: 24px;
+
+}
+input{
+    margin: 10px;
+    background-color: #00a087;
+    padding: 5px;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+footer {
+    margin: 50%;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    width: 7%;
+    height: 20px;
+    background-color: #00a087;
+    position: absolute;
+}
