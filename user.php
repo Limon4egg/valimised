@@ -45,7 +45,7 @@ if(isset($_REQUEST["kommentaarid"])){
             echo "<td><a href='?punktid=$id'>Anna +1 hääl</a></td>";
             echo "<td>
                 <form action='?'>
-                <input type='hidden' name='comment' value='$id'>
+                <input type='hidden' name='kommentaarid' value='$id'>
                 <input type='text' id='kommenttext' name='kommenttext' placeholder='Sinu kommentaar'>
                 <input type='submit' value='Esitada kommentaar'>
                 </form></td>";
