@@ -78,7 +78,7 @@ if(isset($_REQUEST["tühistamine"])){
     echo "</table>";
     ?>
     <div class="link">
-        <a href="https://https://github.com/Limon4egg/valimised" target="_blank">GitHub link</a>
+        <a href="https://github.com/Limon4egg/valimised" target="_blank">GitHub link</a>
     </div>
     </body>
     </html>
