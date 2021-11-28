@@ -55,7 +55,7 @@ if(isset($_REQUEST["kommentaarid"])){
         ?>
     </main>
     <div class="link">
-        <a href="https://https://github.com/Limon4egg/valimised" target="_blank">GitHub link</a>
+        <a href="https://github.com/Limon4egg/valimised" target="_blank">GitHub link</a>
     </div>
 </html>
 <?php
